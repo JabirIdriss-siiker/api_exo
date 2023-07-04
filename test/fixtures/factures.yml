@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  facture_id: MyString
+  date_creation: 2023-07-04
+  ttc: 9.99
+  base_client: one
+  base_catalogue: one
+
+two:
+  facture_id: MyString
+  date_creation: 2023-07-04
+  ttc: 9.99
+  base_client: two
+  base_catalogue: two

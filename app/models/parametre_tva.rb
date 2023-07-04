@@ -1,0 +1,2 @@
+class ParametreTva < ApplicationRecord
+end

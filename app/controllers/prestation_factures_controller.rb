@@ -1,0 +1,2 @@
+class PrestationFacturesController < ApplicationController
+end

@@ -1,0 +1,2 @@
+module BaseCataloguesHelper
+end
